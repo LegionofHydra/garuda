@@ -1,0 +1,17 @@
+{
+  "data": {
+    "ipAddress": "138.121.128.19",
+    "isPublic": true,
+    "ipVersion": 4,
+    "isWhitelisted": false,
+    "abuseConfidenceScore": 0,
+    "countryCode": "BR",
+    "usageType": "Fixed Line ISP",
+    "isp": "Itech Telecom",
+    "domain": "redeitechtelecom.com.br",
+    "hostnames": [],
+    "totalReports": 0,
+    "numDistinctUsers": 0,
+    "lastReportedAt": "2021-11-11T10:34:19+00:00"
+  }
+}
